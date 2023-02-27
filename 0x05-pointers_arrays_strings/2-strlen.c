@@ -13,4 +13,6 @@ int _strien(char *s)
 		longi++;
 		s++;
 	}
+
+	return (longi);
 }
